@@ -142,3 +142,6 @@ Junior Flutter Developer
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## Автор
+### Kanat Begarys Nurlanuly
